@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Alexander Schuch. All rights reserved.
 //
 
-#import <Cocoa/Cocoa.h>
+#import <Foundation/Foundation.h>
 
 @interface AXStatusItemPopup : NSView
 
